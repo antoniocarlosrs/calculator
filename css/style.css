@@ -60,11 +60,6 @@ button:hover {
     background: #406574fa;
 }
 
-/* .equal {
-    grid-row: 6/8;
-    grid-column: 4/5;
-} */
-
 .zero {
     grid-column: 1/3;
 }
