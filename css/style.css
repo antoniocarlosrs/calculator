@@ -26,7 +26,7 @@ body {
 
 .display {
     font-size: 48px;
-    background-color: #17181A;
+    background-color: #232425;
     border: none;
     outline: none;
     text-align: right;
@@ -56,7 +56,7 @@ button:hover {
     background: #797878;
 }
 
-.btn-operators {
+.btn-operators, #equal {
     background: #406574fa;
 }
 
