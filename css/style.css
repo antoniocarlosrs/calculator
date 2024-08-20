@@ -32,6 +32,8 @@ body {
     text-align: right;
     margin-bottom: 1rem;
     padding-top: 3.2rem;
+    padding-left: .4rem;
+    padding-right: .4rem;
     border-radius: .5rem;
     color: #f1f1f1;
     grid-row: 1/3; /*Pega da 1 linha a 3, pois o display ocupa 2 linhas*/
