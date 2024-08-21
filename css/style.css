@@ -5,6 +5,7 @@
 }
 
 body {
+    background-color: #738682;
     height: 100vh;
     width: 100vw;
     display: grid;
